@@ -1,0 +1,52 @@
+[
+    {
+        "number": "1",
+        "title": "Суперкомпьютеры и параллельная обработка данных",
+        "url": "/course/msu/PARPROG"
+    },
+    {
+        "number": "2",
+        "title": "Правовое регулирование отношений в Интернете. Российская перспектива",
+        "url": "/course/spbu/PRAVREG/"
+    },
+    {
+        "number": "3",
+        "title": "Управление мехатронными и робототехническими системами",
+        "url": "/course/ITMOUniversity/ROBCTR/"
+    },
+    {
+        "number": "4",
+        "title": "Теория решения изобретательских задач",
+        "url": "/course/urfu/TRIZ/"
+    },
+    {
+        "number": "5",
+        "title": "Гидрогеология",
+        "url": "/course/misis/GRG/"
+    },
+    {
+        "number": "6",
+        "title": "Земля - планета океанов",
+        "url": "/course/msu/OCEAN/"
+    },
+    {
+        "number": "7",
+        "title": "Экология",
+        "url": "/course/spbstu/ECOLOGY/"
+    },
+    {
+        "number": "8",
+        "title": "Аналитическая геометрия",
+        "url": "/course/bmstu/AGEOM/"
+    },
+    {
+        "number": "9",
+        "title": "Общая социология",
+        "url": "/course/hse/GЅОС/"
+    },
+    {
+        "number": "10",
+        "title": "Управление проектами",
+        "url": "/course/hse/PRMN/"
+    }
+]
